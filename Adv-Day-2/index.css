@@ -1,28 +1,28 @@
-body {
-    background-color: #A0A0A0;
+body{
+    background-color: rgb(134, 134, 134);
     margin: 0;
     padding: 0;
 }
 
-.head-page {
+.center-element{
     margin: 0;
     padding: 0;
     color: #FFF;
     flex: 1;
 }
 
-.top-bar {
+.top-bar{
     background-color: #510d51;
     height: 20vh;
     display: flex;
+    align-items: center;
+    margin-top: 0;
 }
-
-.head-img {
+.head-img{
     position: absolute;
-    margin: 0;
-    padding: 0;
-    width: 8vw;
-    height: 8vw;
+    width: 20vw;
+    height: 6vw;
     flex: 1;
     margin-right: 0;
+    margin-top: 0;
 }

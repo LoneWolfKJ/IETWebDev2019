@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    console.log("I am ready to be Manipulated");
-});
+    console.log("i am ready to be manipulated");
+  });
